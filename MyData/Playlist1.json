@@ -1,0 +1,348 @@
+{
+  "playlists": [
+    {
+      "name": "Local files",
+      "lastModifiedDate": "2020-05-13",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Liked from Radio",
+      "lastModifiedDate": "2020-05-29",
+      "items": [
+        {
+          "track": {
+            "trackName": "Ishq Ka Haafiz",
+            "artistName": "Nilotpal Bora",
+            "albumName": "Tripling: Season 2 (Music from Tvf Original Series)",
+            "trackUri": "spotify:track:02j4mnF3g6FOVtRZWF9OkE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Khoya Hain",
+            "artistName": "Neeti Mohan",
+            "albumName": "Baahubali - The Beginning",
+            "trackUri": "spotify:track:4hqAJpUuIBHDUpM5LlNZap"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wakhra Swag (feat. Badshah)",
+            "artistName": "Navv Inder",
+            "albumName": "Wakhra Swag (feat. Badshah) - Single",
+            "trackUri": "spotify:track:5WoIz3RtJAsdiDCHzOjo0c"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ek Ladki Ko Dekha Toh Aisa Laga",
+            "artistName": "Darshan Raval",
+            "albumName": "Ek Ladki Ko Dekha Toh Aisa Laga (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:2Fw0LlpuIteisMLIMWVy4I"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gud Naal Ishq Mitha",
+            "artistName": "Navraj Hans",
+            "albumName": "Ek Ladki Ko Dekha Toh Aisa Laga (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:0C2MCc2pA23JNBjSVsuwoH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good Morning",
+            "artistName": "Shannon Donald",
+            "albumName": "Ek Ladki Ko Dekha Toh Aisa Laga (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:0HmzA9w3c0eSG0h2tzw74P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chitthiye",
+            "artistName": "Kanwar Grewal",
+            "albumName": "Ek Ladki Ko Dekha Toh Aisa Laga (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:1ICQ5teoFQnKj80iIiWYwr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "House Party Song",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Ek Ladki Ko Dekha Toh Aisa Laga (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:2qnhVNm0Ks5prikRVMLMuf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chaiyya Chaiyya",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:5H4rKylLnO8KrmdXTRhj5s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jiya Jale",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:16W3Eqvgh4Sl84RoHZYnNV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dil Se Re",
+            "artistName": "A.R. Rahman",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:30yySOIXHZYx94sLAySy2j"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ae Ajnabi",
+            "artistName": "Udit Narayan",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:1usJKPPaZ3J5XZFai2x98X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thayya Thayya",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:5TS5VDX9Q72NyOzPj1U6A8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Satarangi Re",
+            "artistName": "Sonu Nigam",
+            "albumName": "Dil Se",
+            "trackUri": "spotify:track:4OzSDQ3qMoSsz6aBcSaqJn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yeh Fitoor Mera",
+            "artistName": "Arijit Singh",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:3hp6JfJIxkv3sl7E6p7DQj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pashmina",
+            "artistName": "Amit Trivedi",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:12Ud5p81gFX8feLUGpewfV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Haminastu",
+            "artistName": "Zeb Bangash",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:1G1fUruO3bSYPEIkeF6VyL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hone Do Batiyaan",
+            "artistName": "Nandini Srikar",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:27VqcCXF74iKuPAE7aeiDP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tere Liye",
+            "artistName": "Sunidhi Chauhan",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:4PZQGu0VYDGkj9xqcIpFeO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rangaa Re Hindi",
+            "artistName": "Sunidhi Chauhan",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:3ZXImhGxofpY8gXm3JHZjC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rangaa Re English",
+            "artistName": "Caralisa Monteiro",
+            "albumName": "Fitoor",
+            "trackUri": "spotify:track:1D0iQGQo4uue9e4HjmX6U3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Muqabla (From \"Street Dancer 3D\")",
+            "artistName": "Yash Narvekar",
+            "albumName": "Muqabla (From \"Street Dancer 3D\")",
+            "trackUri": "spotify:track:28veUNu4veN0LOBVa0nFw8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nazm Nazm",
+            "artistName": "Arko",
+            "albumName": "Bareilly Ki Barfi",
+            "trackUri": "spotify:track:1We89SAonMk70QBbfXERxa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Señorita",
+            "trackUri": "spotify:track:0TK2YIli7K1leLovkQiNik"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "New in 2018",
+      "lastModifiedDate": "2018-08-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Gustaakh",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:3uIemACmoVRUvjZBrqXbWk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dilnawaz",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:2KDR0VRWbQ88LQ1cdi8T3z"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Khudi",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:3Gc4zbfvgZSBEfpd0aWEFb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aaftaab",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:4LtSTc3xANVhYeeN69nscM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mere Yaar",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:6wxm92a18bGEP5N4QusCIx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mizaaj",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:0PivOoKM1sECNTsZ7K6N3h"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aakhri Salaam",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:67mmy7Mhim6DmeFHHoqptH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Vaaqif",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:0vCxpIQ1ypPPasPuksuKBX"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
